@@ -10,3 +10,15 @@
 [submodule "575_tut8_ej19"]
 	path = 575_tut8_ej19
 	url = git@github.com:einarj03/weather.git
+[submodule "575_tut1_lhs19"]
+	path = 575_tut1_lhs19
+	url = https://github.com/LenniSoenke97/swe-coursework.git
+[submodule "575_tut2"]
+	path = 575_tut2
+	url = https://github.com/LenniSoenke97/swe-coursework.git
+[submodule "575_tut3_lhs19"]
+	path = 575_tut3_lhs19
+	url = https://github.com/LenniSoenke97/swe-coursework.git
+[submodule "575_tut7_lhs19"]
+	path = 575_tut7_lhs19
+	url = https://github.com/LenniSoenke97/swe-coursework.git
