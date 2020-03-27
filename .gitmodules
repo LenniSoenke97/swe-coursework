@@ -1,3 +1,6 @@
 [submodule "575_tut4_ej19"]
 	path = 575_tut4_ej19
 	url = git@github.com:einarj03/camera.git
+[submodule "575_tut2_ej19"]
+	path = 575_tut2_ej19
+	url = git@github.com:einarj03/expression_interface.git
